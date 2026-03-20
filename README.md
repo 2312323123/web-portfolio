@@ -18,3 +18,12 @@ Website built to promote the BITEhack hackathon.
 - **Original Repository (2022):** [GitHub](https://github.com/2312323123/BITEhack)  
 - **Gatsby Version (2023):** [GitHub](https://github.com/2312323123/BITEhack-Gatsby)  
 - **Live Demo (Gatsby):** [GitHub Pages](https://2312323123.github.io/BITEhack-Gatsby/)
+
+---
+
+## UX Berries University Club Website (2022)
+
+Website created for a university UX science club.
+
+- **Repository:** [GitHub](https://github.com/2312323123/ux-berries)  
+- **Live Demo:** [GitHub Pages](https://2312323123.github.io/ux-berries/)
