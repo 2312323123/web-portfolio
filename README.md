@@ -34,3 +34,10 @@ Website created for a university UX science club.
 
 - **Repository:** [GitHub](https://github.com/2312323123/ux-berries)  
 - **Live Demo:** [GitHub Pages](https://2312323123.github.io/ux-berries/)
+
+---
+
+## Honorable Mentions
+
+- **CSS Graphics Engine** – experimental project exploring graphics rendered purely with CSS.  
+- **CanSat App** – 3D terrain visualization showing the satellite’s falling trajectory.
