@@ -1,6 +1,6 @@
 # Web Portfolio
 
-These are the main projects I can share publicly—there’s more I’ve done, but this selection highlights the most important and relevant work I can disclose.
+These are the main projects I can share publicly – there’s more I’ve done, but this selection highlights the most important and relevant work I can disclose.
 
 ---
 
