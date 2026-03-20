@@ -1,6 +1,6 @@
 # Web Portfolio
 
-These are the main projects I can share publicly – there’s more I’ve done, but this selection highlights the most important and relevant work I can disclose.
+These are the main projects I can share publicly – there’s more I’ve done in my professional work, but due to confidentiality, those cannot be disclosed. This selection highlights the most important and relevant work I can show.
 
 **Professional Experience:** Since January 2, 2024, I have been working as a Web Developer / Software Engineer (Web Development), applying my skills on real-world projects.
 
