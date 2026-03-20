@@ -4,6 +4,13 @@ All the historical projects I managed to gather up in 2026 in one place.
 
 ---
 
+## ERP system (2024-2025)
+
+- **Repository:** [GitHub](https://github.com/2312323123/ERP)
+- **Live Project:** [Real use](https://erp.best.krakow.pl)
+
+---
+
 ## Engineering Job Fairs Website (2023)
 
 - **Repository:** [GitHub](https://github.com/2312323123/Stronka_ITP_2023)  
