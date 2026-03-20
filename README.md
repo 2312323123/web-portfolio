@@ -2,11 +2,13 @@
 
 These are the main projects I can share publicly – there’s more I’ve done, but this selection highlights the most important and relevant work I can disclose.
 
+**Professional Experience:** Since January 2, 2024, I have been working as a Web Developer / Software Engineer (Web Development), applying my skills on real-world projects.
+
 ---
 
 ## ERP system (2024-2025)
 
-- **Repository:** [GitHub](https://github.com/2312323123/ERP)
+- **Repository:** [GitHub](https://github.com/2312323123/ERP)  
 - **Live Project:** [Real use](https://erp.best.krakow.pl)
 
 ---
