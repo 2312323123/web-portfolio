@@ -48,6 +48,15 @@ A full-stack Flask web application using SQLite for data storage, deployed on Py
 
 ---
 
+## 3D Plane Flight Simulator (2023)
+
+A Three.js-based interactive flight simulator featuring procedural terrain generation from bitmap heightmaps, custom plane geometry with manual vertex/face construction, and real-time raycasting collision detection.
+
+- **Repository:** [GitHub](https://github.com/2312323123/FlaskWWW/tree/demo-sqlite)  
+- **Live Demo:** [GitHub Pages](https://2312323123.github.io/Samolot_grafika_5sem/)
+
+---
+
 ## Honorable Mentions
 
 - **CSS Graphics Engine** – experimental project exploring graphics rendered purely with CSS.  
