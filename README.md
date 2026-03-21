@@ -39,6 +39,15 @@ Website created for a university UX science club.
 
 ---
 
+## FlaskWWW Project (2022/2026)
+
+A full-stack Flask web application using SQLite for data storage, deployed on PythonAnywhere. Demonstrates a lightweight web app setup with dynamic content handling.
+
+- **Repository:** [GitHub](https://github.com/2312323123/FlaskWWW/tree/demo-sqlite)  
+- **Live Demo:** https://poster3355.pythonanywhere.com (need to 'refresh' monthly or the page goes down)
+
+---
+
 ## Honorable Mentions
 
 - **CSS Graphics Engine** – experimental project exploring graphics rendered purely with CSS.  
